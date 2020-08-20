@@ -5,8 +5,10 @@ anto
 <Hola Anto>
   
   Kako si
-  
-  insert: gif
+    insert: gif
   .rar
+
+#.jpg
+add .jpg
 
   
